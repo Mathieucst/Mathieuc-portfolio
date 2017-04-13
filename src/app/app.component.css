@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    padding-top: 2%;
+    }
+h1{
+    color: white;
+    margin-bottom: 2%;
+    margin-top: 0%;
+}
+img{
+
+}
+p{
+    color: white;
+}
+#moi{
+
+    margin-bottom: 11%;
+}
+#solo{
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 12%;
+}
+#joint{
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+}
+
+.txmenu{
+
+}
+
+#pers{
+    margin-top: 2%;
+    margin-bottom: 0%;
+    font-family: "Franklin Gothic Heavy";
+}
+
+#pht{margin-top: 0%;
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:80px;
+    height:100px;
+
+}
+.menu{
+    height: 6%;
+    width: 5%;
+}
+#solo a{
+
+    color: white;
+}
